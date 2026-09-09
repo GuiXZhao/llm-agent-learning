@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.vscode/
+.venv/
+*.pdf
+generate_resume_pdf.py
+
+# 个人资料 & 学习笔记（不上传 GitHub）
+local/
